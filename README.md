@@ -5,3 +5,4 @@ This project utilizes the Reddit API to fetch information from the subreddit "py
 ## Screenshots
 
 ![Screenshot of the project](https://github.com/RefatHex/Reddit_scrapper/blob/master/Screenshot.png)
+![Screenshot of the project](https://github.com/RefatHex/Reddit_scrapper/blob/master/Screenshot_3.png)
